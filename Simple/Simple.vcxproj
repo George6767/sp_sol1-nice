@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Simple.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="redmi.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
